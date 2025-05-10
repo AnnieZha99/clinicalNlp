@@ -1,0 +1,818 @@
+sentence,entity_1,entity_2,relation_label,entity_1_original,entity_2_original
+"Exploring emotion recognition in patients with mild cognitive impairment and 
+Alzheimer's dementia undergoing a rehabilitation program emotion recognition in 
+patients with dementia.",Alzheimer's disease,dementia,associated_with,Alzheimer's dementia,dementia
+"Exploring emotion recognition in patients with mild cognitive impairment and 
+Alzheimer's dementia undergoing a rehabilitation program emotion recognition in 
+patients with dementia.",Alzheimer's disease,cognitive impairment,ambiguous,Alzheimer's dementia,cognitive impairment
+"AIM: This study aimed to explore differences in the emotions of patients with 
+mild cognitive impairment (MCI) and Alzheimer's dementia (AD) in group 
+rehabilitation using facial analysis.",Alzheimer's disease,mci,ambiguous,Alzheimer's dementia,MCI
+"AIM: This study aimed to explore differences in the emotions of patients with 
+mild cognitive impairment (MCI) and Alzheimer's dementia (AD) in group 
+rehabilitation using facial analysis.",Alzheimer's disease,cognitive impairment,ambiguous,Alzheimer's dementia,cognitive impairment
+"AIM: This study aimed to explore differences in the emotions of patients with 
+mild cognitive impairment (MCI) and Alzheimer's dementia (AD) in group 
+rehabilitation using facial analysis.",Alzheimer's disease,ad,equivalent,Alzheimer's dementia,AD
+"Reliability and modeling of digital histological measurements in Alzheimer's 
+disease neuropathologic change and Lewy body disease.",Alzheimer's disease,lewy body disease,ambiguous,"Alzheimer's 
+disease neuropathologic change",Lewy body disease
+"We calculated regional percentage areas occupied by 
+phosphorylated tau (p-Tau, AT8), amyloid-Î² (AÎ², NAB228), and phosphorylated 
+Î±-synuclein (p-Î±Syn, 81A) pathology in 24 autopsied cases with varying degrees 
+of Alzheimer disease neuropathological change and Lewy body disease (LBD) using 
+manual and automated immunostaining methods to investigate variability across 
+protocols.",Alzheimer's disease,lewy body disease,ambiguous,Alzheimer disease,Lewy body disease
+"Author information:
+(1)Mitchell Center for Alzheimer's Disease and Related Brain Disorders, 
+Department of Neurology, University of Texas McGovern Medical School at Houston, 
+Houston, TX, USA.
+(2)UTHealth Houston Graduate School of Biomedical Sciences, The University of 
+Texas MD Anderson Cancer Center, 6767 Bertner Avenue, Houston, TX 77030, USA.",Alzheimer's disease,cancer,unrelated,Alzheimer's Disease and Related Brain Disorders,Cancer
+"MethodTen family carers of people with dementia (4 
+frontotemporal dementia, 3 Alzheimer's disease, 3 Lewy body dementia, 1 Vascular 
+dementia) in Australia participated in focus groups and interviews.",Alzheimer's disease,dementia,ambiguous,Alzheimer's disease,dementia
+"The global rise in both metabolic syndrome (MetS) and neurodegenerative diseases 
+(NDs), particularly dementia and Alzheimer's disease (AD) poses a growing health 
+and socioeconomic burden.",Alzheimer's disease,neurodegenerative diseases,associated_with,Alzheimer's disease,neurodegenerative diseases
+"The global rise in both metabolic syndrome (MetS) and neurodegenerative diseases 
+(NDs), particularly dementia and Alzheimer's disease (AD) poses a growing health 
+and socioeconomic burden.",Alzheimer's disease,mets,ambiguous,Alzheimer's disease,MetS
+"The global rise in both metabolic syndrome (MetS) and neurodegenerative diseases 
+(NDs), particularly dementia and Alzheimer's disease (AD) poses a growing health 
+and socioeconomic burden.",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"The global rise in both metabolic syndrome (MetS) and neurodegenerative diseases 
+(NDs), particularly dementia and Alzheimer's disease (AD) poses a growing health 
+and socioeconomic burden.",Alzheimer's disease,metabolic syndrome,ambiguous,Alzheimer's disease,metabolic syndrome
+"The global rise in both metabolic syndrome (MetS) and neurodegenerative diseases 
+(NDs), particularly dementia and Alzheimer's disease (AD) poses a growing health 
+and socioeconomic burden.",Alzheimer's disease,dementia,ambiguous,Alzheimer's disease,dementia
+"Normal cerebral oxygen consumption and lactate levels in patients with 
+Alzheimer's disease and Lewy body dementia.",Alzheimer's disease,lewy body dementia,ambiguous,Alzheimer's disease,Lewy body dementia
+"In the current exploratory study, we investigated brain 
+lactate, global and regional CBF, and global cerebral metabolic rate of oxygen 
+(CMRO2) in patients with Alzheimer's disease (AD) and dementia with Lewy bodies 
+(DLBs).",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"In the current exploratory study, we investigated brain 
+lactate, global and regional CBF, and global cerebral metabolic rate of oxygen 
+(CMRO2) in patients with Alzheimer's disease (AD) and dementia with Lewy bodies 
+(DLBs).",Alzheimer's disease,lewy,associated_with,Alzheimer's disease,Lewy
+"In the current exploratory study, we investigated brain 
+lactate, global and regional CBF, and global cerebral metabolic rate of oxygen 
+(CMRO2) in patients with Alzheimer's disease (AD) and dementia with Lewy bodies 
+(DLBs).",Alzheimer's disease,dlbs,associated_with,Alzheimer's disease,DLBs
+"In the current exploratory study, we investigated brain 
+lactate, global and regional CBF, and global cerebral metabolic rate of oxygen 
+(CMRO2) in patients with Alzheimer's disease (AD) and dementia with Lewy bodies 
+(DLBs).",Alzheimer's disease,dementia,ambiguous,Alzheimer's disease,dementia
+"Alzheimer's disease (AD) is a progressive neurodegenerative disorder 
+characterized by neuroinflammation and cognitive impairments.",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"Alzheimer's disease (AD) is a progressive neurodegenerative disorder 
+characterized by neuroinflammation and cognitive impairments.",Alzheimer's disease,neuroinflammation,associated_with,Alzheimer's disease,neuroinflammation
+"Alzheimer's disease (AD) is a progressive neurodegenerative disorder 
+characterized by neuroinflammation and cognitive impairments.",Alzheimer's disease,neurodegenerative disorder,associated_with,Alzheimer's disease,neurodegenerative disorder
+"Alzheimer's disease (AD) is a progressive neurodegenerative disorder 
+characterized by neuroinflammation and cognitive impairments.",Alzheimer's disease,cognitive impairments,associated_with,Alzheimer's disease,cognitive impairments
+"This study examines the association between HCoVs and 
+neurodegenerative diseases like Alzheimer disease, Parkinson disease, Lewy body 
+dementia, amyotrophic lateral sclerosis, and Creutzfeldt-Jakob disease.",Alzheimer's disease,neurodegenerative diseases,associated_with,Alzheimer disease,neurodegenerative diseases
+"This study examines the association between HCoVs and 
+neurodegenerative diseases like Alzheimer disease, Parkinson disease, Lewy body 
+dementia, amyotrophic lateral sclerosis, and Creutzfeldt-Jakob disease.",Alzheimer's disease,amyotrophic lateral sclerosis,ambiguous,Alzheimer disease,amyotrophic lateral sclerosis
+"This study examines the association between HCoVs and 
+neurodegenerative diseases like Alzheimer disease, Parkinson disease, Lewy body 
+dementia, amyotrophic lateral sclerosis, and Creutzfeldt-Jakob disease.",Alzheimer's disease,parkinson disease,ambiguous,Alzheimer disease,Parkinson disease
+"This study examines the association between HCoVs and 
+neurodegenerative diseases like Alzheimer disease, Parkinson disease, Lewy body 
+dementia, amyotrophic lateral sclerosis, and Creutzfeldt-Jakob disease.",Alzheimer's disease,creutzfeldt-jakob disease,ambiguous,Alzheimer disease,Creutzfeldt-Jakob disease
+"This study examines the association between HCoVs and 
+neurodegenerative diseases like Alzheimer disease, Parkinson disease, Lewy body 
+dementia, amyotrophic lateral sclerosis, and Creutzfeldt-Jakob disease.",Alzheimer's disease,lewy,ambiguous,Alzheimer disease,Lewy
+"This study examines the association between HCoVs and 
+neurodegenerative diseases like Alzheimer disease, Parkinson disease, Lewy body 
+dementia, amyotrophic lateral sclerosis, and Creutzfeldt-Jakob disease.",Alzheimer's disease,dementia,ambiguous,Alzheimer disease,dementia
+"Little is known about the extent to which patient self-perception of 
+care experience is associated with costs, especially for people with Alzheimer 
+disease and related dementias (ADRD).",Alzheimer's disease,dementias,ambiguous,"Alzheimer 
+disease",dementias
+"Little is known about the extent to which patient self-perception of 
+care experience is associated with costs, especially for people with Alzheimer 
+disease and related dementias (ADRD).",Alzheimer's disease,adrd,ambiguous,"Alzheimer 
+disease",ADRD
+"(14)Shiley-Marcos Alzheimer's Disease Research Center, University of California 
+San Diego, La Jolla, California, USA.
+(15)Department of Neurobiology and Behavior; Institute for Memory Impairments 
+and Neurological Disorders, University of California, Irvine, California, USA.",Alzheimer's disease,memory impairments,ambiguous,"Alzheimer's Disease Research Center, University of California 
+San Diego, La Jolla",Memory Impairments
+"Adult child caregivers of older adults living with Alzheimer's 
+disease and related dementias are at risk of burnout due to competing caregiving 
+demands from multiple generations.",Alzheimer's disease,dementias,associated_with,"Alzheimer's 
+disease",dementias
+"This study investigates whether midlife cortisol levels predict 
+Alzheimer's disease (AD) biomarker burden 15 years later, with particular 
+attention to sex differences and menopausal status.",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"Extracellular Î²-amyloid protein (AÎ²) plaques are prominent pathological feature 
+of Alzheimer's disease (AD).",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"Cognitive 
+function was measured using the Consortium to Establish a Registry for 
+Alzheimer's Disease (CERAD) test, Digit Symbol Substitution Test (DSST), and 
+Animal Fluency Test, while depression was assessed through the Patient Health 
+Questionnaire-9 (PHQ-9).",Alzheimer's disease,depression,ambiguous,Alzheimer's Disease,depression
+"Cognitive 
+function was measured using the Consortium to Establish a Registry for 
+Alzheimer's Disease (CERAD) test, Digit Symbol Substitution Test (DSST), and 
+Animal Fluency Test, while depression was assessed through the Patient Health 
+Questionnaire-9 (PHQ-9).",Alzheimer's disease,cerad,unrelated,Alzheimer's Disease,CERAD
+"Furthermore, this review covers the encouraging 
+results of supplementing sulfur-rich diets in many animal models and clinical 
+investigations, along with their molecular targets in MD, such as schizophrenia, 
+depression, anxiety, bipolar disorder, and autism spectrum disorder, and ND, 
+such as Alzheimer's disease (AD), Parkinson's disease (PD), Amyotrophic Lateral 
+Sclerosis (ALS), and Multiple Sclerosis (MS).",Alzheimer's disease,depression,ambiguous,Alzheimer's disease,depression
+"Furthermore, this review covers the encouraging 
+results of supplementing sulfur-rich diets in many animal models and clinical 
+investigations, along with their molecular targets in MD, such as schizophrenia, 
+depression, anxiety, bipolar disorder, and autism spectrum disorder, and ND, 
+such as Alzheimer's disease (AD), Parkinson's disease (PD), Amyotrophic Lateral 
+Sclerosis (ALS), and Multiple Sclerosis (MS).",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"Furthermore, this review covers the encouraging 
+results of supplementing sulfur-rich diets in many animal models and clinical 
+investigations, along with their molecular targets in MD, such as schizophrenia, 
+depression, anxiety, bipolar disorder, and autism spectrum disorder, and ND, 
+such as Alzheimer's disease (AD), Parkinson's disease (PD), Amyotrophic Lateral 
+Sclerosis (ALS), and Multiple Sclerosis (MS).",Alzheimer's disease,pd,ambiguous,Alzheimer's disease,PD
+"Furthermore, this review covers the encouraging 
+results of supplementing sulfur-rich diets in many animal models and clinical 
+investigations, along with their molecular targets in MD, such as schizophrenia, 
+depression, anxiety, bipolar disorder, and autism spectrum disorder, and ND, 
+such as Alzheimer's disease (AD), Parkinson's disease (PD), Amyotrophic Lateral 
+Sclerosis (ALS), and Multiple Sclerosis (MS).",Alzheimer's disease,anxiety,ambiguous,Alzheimer's disease,anxiety
+"Furthermore, this review covers the encouraging 
+results of supplementing sulfur-rich diets in many animal models and clinical 
+investigations, along with their molecular targets in MD, such as schizophrenia, 
+depression, anxiety, bipolar disorder, and autism spectrum disorder, and ND, 
+such as Alzheimer's disease (AD), Parkinson's disease (PD), Amyotrophic Lateral 
+Sclerosis (ALS), and Multiple Sclerosis (MS).",Alzheimer's disease,schizophrenia,ambiguous,Alzheimer's disease,schizophrenia
+"Furthermore, this review covers the encouraging 
+results of supplementing sulfur-rich diets in many animal models and clinical 
+investigations, along with their molecular targets in MD, such as schizophrenia, 
+depression, anxiety, bipolar disorder, and autism spectrum disorder, and ND, 
+such as Alzheimer's disease (AD), Parkinson's disease (PD), Amyotrophic Lateral 
+Sclerosis (ALS), and Multiple Sclerosis (MS).",Alzheimer's disease,autism spectrum disorder,ambiguous,Alzheimer's disease,autism spectrum disorder
+"Furthermore, this review covers the encouraging 
+results of supplementing sulfur-rich diets in many animal models and clinical 
+investigations, along with their molecular targets in MD, such as schizophrenia, 
+depression, anxiety, bipolar disorder, and autism spectrum disorder, and ND, 
+such as Alzheimer's disease (AD), Parkinson's disease (PD), Amyotrophic Lateral 
+Sclerosis (ALS), and Multiple Sclerosis (MS).",Alzheimer's disease,bipolar disorder,ambiguous,Alzheimer's disease,bipolar disorder
+"Furthermore, this review covers the encouraging 
+results of supplementing sulfur-rich diets in many animal models and clinical 
+investigations, along with their molecular targets in MD, such as schizophrenia, 
+depression, anxiety, bipolar disorder, and autism spectrum disorder, and ND, 
+such as Alzheimer's disease (AD), Parkinson's disease (PD), Amyotrophic Lateral 
+Sclerosis (ALS), and Multiple Sclerosis (MS).",Alzheimer's disease,parkinson's disease,ambiguous,Alzheimer's disease,Parkinson's disease
+"Furthermore, this review covers the encouraging 
+results of supplementing sulfur-rich diets in many animal models and clinical 
+investigations, along with their molecular targets in MD, such as schizophrenia, 
+depression, anxiety, bipolar disorder, and autism spectrum disorder, and ND, 
+such as Alzheimer's disease (AD), Parkinson's disease (PD), Amyotrophic Lateral 
+Sclerosis (ALS), and Multiple Sclerosis (MS).",Alzheimer's disease,als,ambiguous,Alzheimer's disease,ALS
+"Cognitive function was assessed using the 
+Consortium to Establish a Registry for Alzheimer's disease (CERAD), the Animal 
+Fluency Test (AFT), and the Digital Symbol Substitution Test (DSST).",Alzheimer's disease,cerad,unrelated,Alzheimer's disease,CERAD
+"(#)Contributed equally
+
+Alzheimer's disease (AD) significantly reduces the quality of life of patients 
+and exacerbates the burden on their families and society.",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"Danggui Shaoyao San ameliorates Alzheimer's disease by regulating lipid 
+metabolism and inhibiting neuronal ferroptosis through the AMPK/Sp1/ACSL4 
+signaling pathway.",Alzheimer's disease,neuronal ferroptosis,associated_with,Alzheimer's disease,neuronal ferroptosis
+"Alzheimer's disease (AD) is a neurodegenerative disorder 
+characterized by cognitive decline; recent studies suggest that neuronal 
+ferroptosis plays a key role in its pathogenesis.",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"Alzheimer's disease (AD) is a neurodegenerative disorder 
+characterized by cognitive decline; recent studies suggest that neuronal 
+ferroptosis plays a key role in its pathogenesis.",Alzheimer's disease,neurodegenerative disorder,associated_with ,Alzheimer's disease,neurodegenerative disorder
+"Alzheimer's disease (AD) is a neurodegenerative disorder 
+characterized by cognitive decline; recent studies suggest that neuronal 
+ferroptosis plays a key role in its pathogenesis.",Alzheimer's disease,cognitive decline,associated_with,Alzheimer's disease,cognitive decline
+"Diagnostic performance of Alzheimer's disease blood biomarkers in a Brazilian 
+cohort.
+
+Borelli WV, Ferreira PCL, Brum WS, Ferrari-Souza JP, Carello-Collar G, Holz M, 
+Tizeli V, Strelow MZ, Formoso C, Fagundes Chaves ML, Rocha A, Aguzzoli CS, 
+Rohden F, Souza DG, Schumacher Schuh AF, Povala G, Bellaver B, Rosa-Neto P, 
+Castilhos RM, Pascoal TA, Zimmer ER.",Alzheimer's disease,ferrari-souza jp,unrelated,Alzheimer's disease blood biomarkers,Ferrari-Souza JP
+"Blood-based biomarkers (BBMs) have emerged as promising tools to enhance 
+Alzheimer's disease (AD) diagnosis.",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"Utilizing data from the GBD Study 2021 on the incidence and 
+disability-adjusted life-years (DALYs) of Alzheimer's disease (AD) and other 
+dementias, Parkinson's disease, multiple sclerosis, and idiopathic epilepsy in 
+women from 1990 to 2021.",Alzheimer's disease,dementias,ambiguous,Alzheimer's disease,dementias
+"Utilizing data from the GBD Study 2021 on the incidence and 
+disability-adjusted life-years (DALYs) of Alzheimer's disease (AD) and other 
+dementias, Parkinson's disease, multiple sclerosis, and idiopathic epilepsy in 
+women from 1990 to 2021.",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"Utilizing data from the GBD Study 2021 on the incidence and 
+disability-adjusted life-years (DALYs) of Alzheimer's disease (AD) and other 
+dementias, Parkinson's disease, multiple sclerosis, and idiopathic epilepsy in 
+women from 1990 to 2021.",Alzheimer's disease,idiopathic epilepsy,ambiguous,Alzheimer's disease,idiopathic epilepsy
+"Utilizing data from the GBD Study 2021 on the incidence and 
+disability-adjusted life-years (DALYs) of Alzheimer's disease (AD) and other 
+dementias, Parkinson's disease, multiple sclerosis, and idiopathic epilepsy in 
+women from 1990 to 2021.",Alzheimer's disease,parkinson's disease,ambiguous,Alzheimer's disease,Parkinson's disease
+"Utilizing data from the GBD Study 2021 on the incidence and 
+disability-adjusted life-years (DALYs) of Alzheimer's disease (AD) and other 
+dementias, Parkinson's disease, multiple sclerosis, and idiopathic epilepsy in 
+women from 1990 to 2021.",Alzheimer's disease,multiple sclerosis,ambiguous,Alzheimer's disease,multiple sclerosis
+"We conducted a cross-sectional assessment of the effect of EQ and YoE 
+on brain health in 7533 subjects from 20 countries, including healthy controls 
+(HCs), Alzheimer's disease (AD), and frontotemporal lobar degeneration (FTLD).",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"We conducted a cross-sectional assessment of the effect of EQ and YoE 
+on brain health in 7533 subjects from 20 countries, including healthy controls 
+(HCs), Alzheimer's disease (AD), and frontotemporal lobar degeneration (FTLD).",Alzheimer's disease,frontotemporal lobar degeneration,ambiguous,Alzheimer's disease,frontotemporal lobar degeneration
+"We conducted a cross-sectional assessment of the effect of EQ and YoE 
+on brain health in 7533 subjects from 20 countries, including healthy controls 
+(HCs), Alzheimer's disease (AD), and frontotemporal lobar degeneration (FTLD).",Alzheimer's disease,ftld,ambiguous,Alzheimer's disease,FTLD
+"It is a neurodegenerative illness-and the 
+second most common type of dementia after Alzheimer's disease-that causes memory 
+loss and severe problems in carrying out daily activities.",Alzheimer's disease,dementia,associated_with,Alzheimer's disease-that,dementia
+"It is a neurodegenerative illness-and the 
+second most common type of dementia after Alzheimer's disease-that causes memory 
+loss and severe problems in carrying out daily activities.",Alzheimer's disease,neurodegenerative illness-and,unrelated,Alzheimer's disease-that,neurodegenerative illness-and
+"It is a neurodegenerative illness-and the 
+second most common type of dementia after Alzheimer's disease-that causes memory 
+loss and severe problems in carrying out daily activities.",Alzheimer's disease,"memory 
+loss and severe problems in carrying out daily activities.",associated_with,Alzheimer's disease-that,"memory 
+loss and severe problems in carrying out daily activities."
+"Furthermore, emerging evidence suggests 
+a connection between gut dysbiosis and neurodegenerative disorders such as 
+Alzheimer's disease.",Alzheimer's disease,neurodegenerative disorders,associated_with,Alzheimer's disease,neurodegenerative disorders
+"Furthermore, emerging evidence suggests 
+a connection between gut dysbiosis and neurodegenerative disorders such as 
+Alzheimer's disease.",Alzheimer's disease,dysbiosis,associated_with,Alzheimer's disease,dysbiosis
+"Brain atrophy over time, as measured by magnetic resonance imaging (MRI), has 
+been shown to predict subsequent cognitive impairment among individuals who were 
+cognitively normal when first evaluated, indicating that subtle brain atrophy 
+associated with Alzheimer's disease (AD) may begin years before clinical 
+symptoms appear.",Alzheimer's disease,atrophy,associated_with,Alzheimer's disease,atrophy
+"Brain atrophy over time, as measured by magnetic resonance imaging (MRI), has 
+been shown to predict subsequent cognitive impairment among individuals who were 
+cognitively normal when first evaluated, indicating that subtle brain atrophy 
+associated with Alzheimer's disease (AD) may begin years before clinical 
+symptoms appear.",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"Brain atrophy over time, as measured by magnetic resonance imaging (MRI), has 
+been shown to predict subsequent cognitive impairment among individuals who were 
+cognitively normal when first evaluated, indicating that subtle brain atrophy 
+associated with Alzheimer's disease (AD) may begin years before clinical 
+symptoms appear.",Alzheimer's disease,brain atrophy,associated_with,Alzheimer's disease,Brain atrophy
+"Brain atrophy over time, as measured by magnetic resonance imaging (MRI), has 
+been shown to predict subsequent cognitive impairment among individuals who were 
+cognitively normal when first evaluated, indicating that subtle brain atrophy 
+associated with Alzheimer's disease (AD) may begin years before clinical 
+symptoms appear.",Alzheimer's disease,cognitive impairment,associated_with,Alzheimer's disease,cognitive impairment
+"Alzheimer Disease (AD) represents a growing global health concern 
+with profound socioeconomic implications, with predictions indicating a 
+potential 50% increase in AD cases in Italy over the next 30 years.",Alzheimer's disease,ad,equivalent,Alzheimer Disease,AD
+"Clinical 
+differentiation of LBD from Alzheimer's disease (AD) remains complex due to 
+symptom overlap, yet approximately 25% of dementia cases are diagnosed as LBD 
+postmortem, primarily identified by the presence of Î±-synuclein aggregates, tau 
+tangles, and amyloid plaques.",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"Clinical 
+differentiation of LBD from Alzheimer's disease (AD) remains complex due to 
+symptom overlap, yet approximately 25% of dementia cases are diagnosed as LBD 
+postmortem, primarily identified by the presence of Î±-synuclein aggregates, tau 
+tangles, and amyloid plaques.",Alzheimer's disease,dementia,associated_with,Alzheimer's disease,dementia
+"doi: 10.1186/s12883-025-04192-7.
+
+Potential association between allergic disease and risk of Alzheimer's disease: 
+insight from genetic analysis.",Alzheimer's disease,allergic disease,associated_with,Alzheimer's disease,allergic disease
+"Numerous evidence from observational studies indicated an association 
+between allergic diseases and Alzheimer's Disease (AD).",Alzheimer's disease,ad,equivalent,Alzheimer's Disease,AD
+"Numerous evidence from observational studies indicated an association 
+between allergic diseases and Alzheimer's Disease (AD).",Alzheimer's disease,allergic diseases,associated_with,Alzheimer's Disease,allergic diseases
+"vjohn@mednet.ucla.edu.
+(#)Contributed equally
+
+Decreased expression of sirtuin 1 (SirT1) has been implicated in Alzheimer's 
+disease (AD), and as we previously reported, is related to transcriptional 
+repression by the major risk factor for sporadic AD, apolipoprotein E4 (ApoE4).",Alzheimer's disease,ad,equivalent,"Alzheimer's 
+disease",AD
+"Dementia 
+encompasses Alzheimer's disease, Parkinson's disease, Huntington's disease, Lewy 
+body dementia, mixed dementia, and various other diseases.",Alzheimer's disease,huntington's disease,ambiguous,Alzheimer's disease,Huntington's disease
+"Dementia 
+encompasses Alzheimer's disease, Parkinson's disease, Huntington's disease, Lewy 
+body dementia, mixed dementia, and various other diseases.",Alzheimer's disease,lewy,ambiguous,Alzheimer's disease,Lewy
+"Dementia 
+encompasses Alzheimer's disease, Parkinson's disease, Huntington's disease, Lewy 
+body dementia, mixed dementia, and various other diseases.",Alzheimer's disease,dementia,associated_with,Alzheimer's disease,Dementia
+"Dementia 
+encompasses Alzheimer's disease, Parkinson's disease, Huntington's disease, Lewy 
+body dementia, mixed dementia, and various other diseases.",Alzheimer's disease,parkinson's disease,ambiguous,Alzheimer's disease,Parkinson's disease
+"Among 
+these, dichotic tests were identified as having the strongest association with 
+cognitive decline, probable Alzheimer's disease, or dementia.",Alzheimer's disease,dementia,ambiguous,Alzheimer's disease,dementia
+"Among 
+these, dichotic tests were identified as having the strongest association with 
+cognitive decline, probable Alzheimer's disease, or dementia.",Alzheimer's disease,cognitive decline,ambiguous,Alzheimer's disease,cognitive decline
+"Microglia-mediated neuroinflammation plays a critical role in the onset and 
+progression of Alzheimer's disease.",Alzheimer's disease,neuroinflammation,associated_with,Alzheimer's disease,neuroinflammation
+"The primary outcome was overall dementia 
+incidence, including vascular dementia, Alzheimer's disease, and other subtypes.",Alzheimer's disease,dementia,associated_with,Alzheimer's disease,dementia
+"Reductions were observed in vascular 
+dementia (0.8% vs. 2.0%; aHR 0.87), Alzheimer's dementia (1.1% vs. 3.2%; aHR, 
+0.76), and all-cause mortality (6.8% vs. 15.4%; aHR, 0.92).",Alzheimer's disease,dementia,ambiguous,Alzheimer's dementia,dementia
+"Secondary outcomes included 
+dementia-related drug use and subtypes of dementia, such as Alzheimer's disease 
+and vascular dementia.",Alzheimer's disease,dementia,associated_with,Alzheimer's disease,dementia
+"Similar reductions were observed for 
+dementia-related drug use (HR, 0.69; 95â? CI: 0.64-0.74; pâ?â?.001), Alzheimer's 
+disease (HR, 0.53; 95â? CI: 0.48-0.60; pâ?â?.001), and vascular dementia (HR, 
+0.52;",Alzheimer's disease,vascular dementia,ambiguous,"Alzheimer's 
+disease",vascular dementia
+"Advanced glycation end-products (AGEs) formation in proteins 
+are involved in healthy aging and a variety of diseases including Alzheimer's 
+disease, atherosclerosis, and diabetic complications.",Alzheimer's disease,atherosclerosis,ambiguous,"Alzheimer's 
+disease",atherosclerosis
+"Advanced glycation end-products (AGEs) formation in proteins 
+are involved in healthy aging and a variety of diseases including Alzheimer's 
+disease, atherosclerosis, and diabetic complications.",Alzheimer's disease,diabetic complications,ambiguous,"Alzheimer's 
+disease",diabetic complications
+"Blockage of CCL3 with neutralizing antibody reduces neuroinflammation and 
+reverses Alzheimer disease phenotypes.",Alzheimer's disease,neuroinflammation,ambiguous,Alzheimer disease,neuroinflammation
+"Electronic address: xiehengge@163.com.cn.
+
+BACKGROUND: Accumulating evidence indicates that neuroinflammation is involved 
+in the pathogenesis of Alzheimer's disease (AD).",Alzheimer's disease,ad,equinalent,Alzheimer's disease,AD
+"Electronic address: xiehengge@163.com.cn.
+
+BACKGROUND: Accumulating evidence indicates that neuroinflammation is involved 
+in the pathogenesis of Alzheimer's disease (AD).",Alzheimer's disease,neuroinflammation,associated_with,Alzheimer's disease,neuroinflammation
+"Furthermore, BSP 
+supplementation enhances resistance to H2O2-induced oxidative and starvation 
+stresses, attenuates the lead (Pb)-induced toxicity, and delays the onset of 
+Alzheimer's phenotypes in flies.",Alzheimer's disease,toxicity,ambiguous,Alzheimer's phenotypes in flies.,toxicity
+"Alzheimer's disease (AD) represents a progressive neurodegenerative disorder 
+marked by complex pathologies.",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"Alzheimer's disease (AD) represents a progressive neurodegenerative disorder 
+marked by complex pathologies.",Alzheimer's disease,neurodegenerative disorder,associated_with,Alzheimer's disease,neurodegenerative disorder
+"The authors 
+declare the following financial interests/personal relationships which may be 
+considered as potential competing interests: PCD has received grant support by 
+the Medical Research Council, the Lewy Body Society, Alzheimerâs Society and 
+Alzheimer's Research UK.",Alzheimer's disease,pcd,unrelated,,PCD
+"This 
+study aimed to determine whether MetS and its individual components increase the 
+risk of YOD, including all-cause dementia, Alzheimer disease (AD), and vascular 
+dementia (VaD).",Alzheimer's disease,ad,equivalent,Alzheimer disease,AD
+"This 
+study aimed to determine whether MetS and its individual components increase the 
+risk of YOD, including all-cause dementia, Alzheimer disease (AD), and vascular 
+dementia (VaD).",Alzheimer's disease,vad,ambiguous,Alzheimer disease,VaD
+"This 
+study aimed to determine whether MetS and its individual components increase the 
+risk of YOD, including all-cause dementia, Alzheimer disease (AD), and vascular 
+dementia (VaD).",Alzheimer's disease,dementia,ambiguous,Alzheimer disease,dementia
+"This 
+study aimed to determine whether MetS and its individual components increase the 
+risk of YOD, including all-cause dementia, Alzheimer disease (AD), and vascular 
+dementia (VaD).",Alzheimer's disease,yod,associated_with,Alzheimer disease,YOD
+"EPIC-Potsdam sub-cohort study: The early role of trace elements, oxidative 
+stress, and anthropometrics in Alzheimer's disease and dementia onset.",Alzheimer's disease,dementia,ambiguous,Alzheimer's disease,dementia
+"BackgroundSerum trace elements, anthropometric data, and oxidative stress 
+markers are often altered in patients diagnosed with Alzheimer's disease (AD) or 
+other types of dementia (OTD).",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"BackgroundSerum trace elements, anthropometric data, and oxidative stress 
+markers are often altered in patients diagnosed with Alzheimer's disease (AD) or 
+other types of dementia (OTD).",Alzheimer's disease,dementia,associated_with,Alzheimer's disease,dementia
+"ObjectiveThis nested 
+case-control study aims to investigate anthropometric data, serum trace 
+elements, exchangeable copper (CuEXC), and oxidative stress markers to identify 
+early associations with the risk of AD or OTD.MethodsFrom the European 
+Prospective Investigation into Cancer and Nutrition-Potsdam cohort (DRKS-ID: 
+DRKS00020593), the High Fat Diet, Microbiota, and Neuroinflammation in the 
+Progression of Alzheimer study was generated.",Alzheimer's disease,cancer,unrelated,Alzheimer study,Cancer
+"ObjectiveThis nested 
+case-control study aims to investigate anthropometric data, serum trace 
+elements, exchangeable copper (CuEXC), and oxidative stress markers to identify 
+early associations with the risk of AD or OTD.MethodsFrom the European 
+Prospective Investigation into Cancer and Nutrition-Potsdam cohort (DRKS-ID: 
+DRKS00020593), the High Fat Diet, Microbiota, and Neuroinflammation in the 
+Progression of Alzheimer study was generated.",Alzheimer's disease,neuroinflammation,associated_with,Alzheimer study,Neuroinflammation
+"Background: Alzheimer's disease and related dementias (ADRD) are 
+neurodegenerative disorders that afflict 1 in 9 older adults.",Alzheimer's disease,dementias,associated_with,Alzheimer's disease,dementias
+"Background: Alzheimer's disease and related dementias (ADRD) are 
+neurodegenerative disorders that afflict 1 in 9 older adults.",Alzheimer's disease,neurodegenerative disorders,associated_with,Alzheimer's disease,neurodegenerative disorders
+"Background: Alzheimer's disease and related dementias (ADRD) are 
+neurodegenerative disorders that afflict 1 in 9 older adults.",Alzheimer's disease,adrd,associated_with,Alzheimer's disease,ADRD
+"BackgroundThe alternative splicing (AS) of MAPT, which encodes Tau, in the adult 
+human brain produces six major isoforms that play critical roles in the 
+pathogenesis of tauopathies including Alzheimer's disease.",Alzheimer's disease,tauopathies,associated_with,Alzheimer's disease,tauopathies
+"BackgroundCurrent therapies for cognitive impairment, including Alzheimer's 
+disease (AD) and mild cognitive impairment, are limited by a lack of universal 
+treatment and adverse effects associated with polypharmacy.",Alzheimer's disease,ad,equivalent,"Alzheimer's 
+disease",AD
+"BackgroundCurrent therapies for cognitive impairment, including Alzheimer's 
+disease (AD) and mild cognitive impairment, are limited by a lack of universal 
+treatment and adverse effects associated with polypharmacy.",Alzheimer's disease,cognitive impairment,associated_with,"Alzheimer's 
+disease",cognitive impairment
+"BackgroundThe involvement of microglia is likely to be pivotal in the 
+pathogenesis of Alzheimer's disease (AD) by modulating the deposition of 
+amyloid-Î² (AÎ²) plaques.",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"BackgroundLow-intensity focused ultrasound (LIFU), a non-invasive targeted brain 
+stimulation technology, has shown promise for therapeutic applications in 
+Alzheimer's disease (AD) patients.",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"BackgroundImpairments in orientation in space, time, and person occur frequently 
+in Alzheimer's disease (AD) dementia.",Alzheimer's disease,dementia,associated_with,Alzheimer's disease,
+"BackgroundLecanemab, a monoclonal antibody targeting amyloid-Î² plaques, is 
+FDA-approved for early Alzheimer's disease (AD) treatment.",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"ObjectiveThis study aims to integrate single-nuclei sequencing data from 
+the Seattle Alzheimer's Disease Cortical Atlas (SEA-AD) with spatial 
+transcriptomics to quantify cellular changes in the prefrontal cortex and 
+temporal gyrus, regions vulnerable to AD neuropathological changes 
+(ADNC).MethodsWe mapped differentially expressed genes (DEGs) and analyzed their 
+interactions with pathological factors such as APOE expression and Lewy bodies.",Alzheimer's disease,lewy,unrelated,Alzheimer's Disease Cortical Atlas,Lewy
+"BackgroundNeuropsychological (NP) assessment is crucial for diagnosing prodromal 
+and Alzheimer's disease and related dementia (ADRD) syndromes.",Alzheimer's disease,dementia,associated_with,Alzheimer's disease,dementia
+"BackgroundNeuropsychological (NP) assessment is crucial for diagnosing prodromal 
+and Alzheimer's disease and related dementia (ADRD) syndromes.",Alzheimer's disease,adrd,associated_with,Alzheimer's disease,ADRD
+"Author information:
+(1)Department of Neurology, Mayo Clinic, Rochester, MN, USA.
+(2)Department of Laboratory Medicine and Pathology, University of Minnesota, 
+Minneapolis, MN, USA.
+(3)Department of Epidemiology and Prevention, Wake Forest University, 
+Winston-Salem, NC, USA.
+(4)Department of Psychiatry & Psychology, Mayo Clinic, Rochester, MN, USA.
+(5)Department of Radiology, Mayo Clinic, Rochester, MN, USA.
+
+BackgroundStudies suggest that plasma Alzheimer's disease (AD) biomarkers may 
+aid in the overall diagnosis of AD, but their utility among patients with 
+atypical clinical presentations of AD are unknown.",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"Proteins involved 
+in the pathogenesis of Parkinson's disease (PD), Alzheimer's disease (AD), and 
+amyotrophic lateral sclerosis (ALS) condensed and underwent ATP-dependent liquid 
+phase separation in vitro.",Alzheimer's disease,amyotrophic lateral sclerosis,ambiguous,Alzheimer's disease,amyotrophic lateral sclerosis
+"Proteins involved 
+in the pathogenesis of Parkinson's disease (PD), Alzheimer's disease (AD), and 
+amyotrophic lateral sclerosis (ALS) condensed and underwent ATP-dependent liquid 
+phase separation in vitro.",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"Proteins involved 
+in the pathogenesis of Parkinson's disease (PD), Alzheimer's disease (AD), and 
+amyotrophic lateral sclerosis (ALS) condensed and underwent ATP-dependent liquid 
+phase separation in vitro.",Alzheimer's disease,pd,ambiguous,Alzheimer's disease,PD
+"Proteins involved 
+in the pathogenesis of Parkinson's disease (PD), Alzheimer's disease (AD), and 
+amyotrophic lateral sclerosis (ALS) condensed and underwent ATP-dependent liquid 
+phase separation in vitro.",Alzheimer's disease,parkinson's disease,ambiguous,Alzheimer's disease,Parkinson's disease
+"Proteins involved 
+in the pathogenesis of Parkinson's disease (PD), Alzheimer's disease (AD), and 
+amyotrophic lateral sclerosis (ALS) condensed and underwent ATP-dependent liquid 
+phase separation in vitro.",Alzheimer's disease,als,ambiguous,Alzheimer's disease,ALS
+"The core target proteins among 
+the duplicate targets were primarily involved in pathways related to cancer, 
+lipid and atherosclerosis, hepatitis B, proteoglycans in cancer, and Alzheimer's 
+disease.",Alzheimer's disease,atherosclerosis,ambiguous,"Alzheimer's 
+disease",atherosclerosis
+"The core target proteins among 
+the duplicate targets were primarily involved in pathways related to cancer, 
+lipid and atherosclerosis, hepatitis B, proteoglycans in cancer, and Alzheimer's 
+disease.",Alzheimer's disease,cancer,ambiguous,"Alzheimer's 
+disease",cancer
+"The core target proteins among 
+the duplicate targets were primarily involved in pathways related to cancer, 
+lipid and atherosclerosis, hepatitis B, proteoglycans in cancer, and Alzheimer's 
+disease.",Alzheimer's disease,hepatitis b,ambiguous,"Alzheimer's 
+disease",hepatitis B
+"Oral 
+administration of ZSS hot water extract ameliorated AÎ² and tau pathology and 
+cognitive impairment in mouse models of Alzheimer's disease and frontotemporal 
+dementia.",Alzheimer's disease,dementia,ambiguous,Alzheimer's disease and frontotemporal,dementia
+"Oral 
+administration of ZSS hot water extract ameliorated AÎ² and tau pathology and 
+cognitive impairment in mouse models of Alzheimer's disease and frontotemporal 
+dementia.",Alzheimer's disease,cognitive impairment,associated_with,Alzheimer's disease and frontotemporal,cognitive impairment
+"Virtual reality as a complementary therapy in the rehabilitation of balance and 
+gait disorders in patients with mild cognitive impairment and Alzheimer's 
+disease: Systematic review.",Alzheimer's disease,cognitive impairment,ambiguous,"Alzheimer's 
+disease",cognitive impairment
+"Virtual reality as a complementary therapy in the rehabilitation of balance and 
+gait disorders in patients with mild cognitive impairment and Alzheimer's 
+disease: Systematic review.",Alzheimer's disease,gait disorders,associated_with,"Alzheimer's 
+disease",gait disorders
+"ObjectiveTo analyse the benefits of virtual reality in the management of balance 
+and gait disorders in people with Alzheimer's disease and cognitive 
+impairment.",Alzheimer's disease,gait disorders,associated_with,"Alzheimer's disease and cognitive 
+impairment",gait disorders
+"The inclusion criteria were: 
+randomised, cross-sectional, quasi-experimental controlled clinical trials 
+involving patients diagnosed with mild cognitive impairment, dementia and 
+Alzheimer's disease with a score of â?3 on the MMSE test and age â?0 years, and 
+interventions conducted with virtual reality and conventional physiotherapy for 
+the treatment of balance and gait disorders.",Alzheimer's disease,dementia,ambiguous,Alzheimer's disease,dementia
+"The inclusion criteria were: 
+randomised, cross-sectional, quasi-experimental controlled clinical trials 
+involving patients diagnosed with mild cognitive impairment, dementia and 
+Alzheimer's disease with a score of â?3 on the MMSE test and age â?0 years, and 
+interventions conducted with virtual reality and conventional physiotherapy for 
+the treatment of balance and gait disorders.",Alzheimer's disease,cognitive impairment,ambiguous,Alzheimer's disease,cognitive impairment
+"The inclusion criteria were: 
+randomised, cross-sectional, quasi-experimental controlled clinical trials 
+involving patients diagnosed with mild cognitive impairment, dementia and 
+Alzheimer's disease with a score of â?3 on the MMSE test and age â?0 years, and 
+interventions conducted with virtual reality and conventional physiotherapy for 
+the treatment of balance and gait disorders.",Alzheimer's disease,gait disorders,ambiguous,Alzheimer's disease,gait disorders
+"ConclusionStudies suggest that 
+interventions based on virtual environments in older adults with early 
+Alzheimer's disease can improve balance and gait impairments, postural control 
+and executive function, delaying the deterioration caused by the disease.",Alzheimer's disease,gait impairments,associated_with,Alzheimer's disease,gait impairments
+"Elevated levels of circulating C1R protein increased the odds of 
+developing Alzheimer's disease (AD), while PILRA and CELA2A were estimated to 
+protect against the pathogenesis of AD; genetically predicted increase of 
+Î±-synuclein and APOE elevated the occurrence of Dementia of Lewy Bodies (DLB); 
+elevated level of circulating CRP was assessed to increase the onset of vascular 
+dementia (VD).",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"Elevated levels of circulating C1R protein increased the odds of 
+developing Alzheimer's disease (AD), while PILRA and CELA2A were estimated to 
+protect against the pathogenesis of AD; genetically predicted increase of 
+Î±-synuclein and APOE elevated the occurrence of Dementia of Lewy Bodies (DLB); 
+elevated level of circulating CRP was assessed to increase the onset of vascular 
+dementia (VD).",Alzheimer's disease,dlb,,Alzheimer's disease,DLB
+"Elevated levels of circulating C1R protein increased the odds of 
+developing Alzheimer's disease (AD), while PILRA and CELA2A were estimated to 
+protect against the pathogenesis of AD; genetically predicted increase of 
+Î±-synuclein and APOE elevated the occurrence of Dementia of Lewy Bodies (DLB); 
+elevated level of circulating CRP was assessed to increase the onset of vascular 
+dementia (VD).",Alzheimer's disease,dementia,ambiguous,Alzheimer's disease,Dementia
+"Alzheimer's Disease (AD) is a neurodegenerative condition 
+characterised by cognitive decline and memory impairment.",Alzheimer's disease,ad,equivalent,Alzheimer's Disease,AD
+"Alzheimer's Disease (AD) is a neurodegenerative condition 
+characterised by cognitive decline and memory impairment.",Alzheimer's disease,memory impairment,associated_with,Alzheimer's Disease,memory impairment
+"Alzheimer's Disease (AD) is a neurodegenerative condition 
+characterised by cognitive decline and memory impairment.",Alzheimer's disease,cognitive decline,associated_with,Alzheimer's Disease,cognitive decline
+"Alzheimer's disease (AD), a prevalent neurodegenerative disorder, represents a 
+significant global health challenge, characterized by cognitive decline and 
+neuroinflammation.",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"Alzheimer's disease (AD), a prevalent neurodegenerative disorder, represents a 
+significant global health challenge, characterized by cognitive decline and 
+neuroinflammation.",Alzheimer's disease,neuroinflammation,associated_with,Alzheimer's disease,neuroinflammation
+"Alzheimer's disease (AD), a prevalent neurodegenerative disorder, represents a 
+significant global health challenge, characterized by cognitive decline and 
+neuroinflammation.",Alzheimer's disease,cognitive decline,associated_with,Alzheimer's disease,cognitive decline
+"Alzheimer's disease (AD), a prevalent neurodegenerative disorder, represents a 
+significant global health challenge, characterized by cognitive decline and 
+neuroinflammation.",Alzheimer's disease,neurodegenerative disorder,associated_with,Alzheimer's disease,neurodegenerative disorder
+"Genes related to Alzheimer's 
+disease (AD), Parkinson's disease (PD), and Huntington's disease (HD) were 
+gathered using online databases.",Alzheimer's disease,ad,equivalent,"Alzheimer's 
+disease",AD
+"Genes related to Alzheimer's 
+disease (AD), Parkinson's disease (PD), and Huntington's disease (HD) were 
+gathered using online databases.",Alzheimer's disease,pd,ambiguous,"Alzheimer's 
+disease",PD
+"Genes related to Alzheimer's 
+disease (AD), Parkinson's disease (PD), and Huntington's disease (HD) were 
+gathered using online databases.",Alzheimer's disease,huntington's disease,ambiguous,"Alzheimer's 
+disease",Huntington's disease
+"Genes related to Alzheimer's 
+disease (AD), Parkinson's disease (PD), and Huntington's disease (HD) were 
+gathered using online databases.",Alzheimer's disease,hd,ambiguous,"Alzheimer's 
+disease",HD
+"Genes related to Alzheimer's 
+disease (AD), Parkinson's disease (PD), and Huntington's disease (HD) were 
+gathered using online databases.",Alzheimer's disease,parkinson's disease,ambiguous,"Alzheimer's 
+disease",Parkinson's disease
+"We highlight key 
+innovations in EVs' molecular design, characterization, and deployment for 
+treating diseases including Alzheimer's disease, infectious diseases, and 
+cancers.",Alzheimer's disease,cancers,ambiguous,Alzheimer's disease,cancers
+"We invited experts 
+in the study of Alzheimer's disease and Related Disorders (ADRDs) to express 
+their views on this paradigmatic shift in dementia management.",Alzheimer's disease,dementia,associated_with,Alzheimer's disease,dementia
+"This breakthrough could influence 
+the development of therapeutic leads for combating diabetes, cancer, and 
+Alzheimer's disease.",Alzheimer's disease,"diabetes, cancer",ambiguous,Alzheimer's disease,"diabetes, cancer"
+"This review proposes a discussion on: (1) the complex role of 
+distinct phenotypes of enteric glial cells involved in neurodegenerative 
+diseases, such as Parkinson's disease (PD), Alzheimer's disease (AD), 
+amyotrophic lateral sclerosis (ALS), Huntington's disease (HD) and multiple 
+sclerosis (MS); and (2) innovative strategies such as IDO/TDO inhibitors, Brazil 
+nuts, caffeic acid, polyphenols, among others, that act on EGCs and have the 
+potential to treat neurodegenerative diseases.",Alzheimer's disease,neurodegenerative diseases,associated_with,Alzheimer's disease,neurodegenerative diseases
+"This review proposes a discussion on: (1) the complex role of 
+distinct phenotypes of enteric glial cells involved in neurodegenerative 
+diseases, such as Parkinson's disease (PD), Alzheimer's disease (AD), 
+amyotrophic lateral sclerosis (ALS), Huntington's disease (HD) and multiple 
+sclerosis (MS); and (2) innovative strategies such as IDO/TDO inhibitors, Brazil 
+nuts, caffeic acid, polyphenols, among others, that act on EGCs and have the 
+potential to treat neurodegenerative diseases.",Alzheimer's disease,amyotrophic lateral sclerosis,ambiguous,Alzheimer's disease,amyotrophic lateral sclerosis
+"This review proposes a discussion on: (1) the complex role of 
+distinct phenotypes of enteric glial cells involved in neurodegenerative 
+diseases, such as Parkinson's disease (PD), Alzheimer's disease (AD), 
+amyotrophic lateral sclerosis (ALS), Huntington's disease (HD) and multiple 
+sclerosis (MS); and (2) innovative strategies such as IDO/TDO inhibitors, Brazil 
+nuts, caffeic acid, polyphenols, among others, that act on EGCs and have the 
+potential to treat neurodegenerative diseases.",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"This review proposes a discussion on: (1) the complex role of 
+distinct phenotypes of enteric glial cells involved in neurodegenerative 
+diseases, such as Parkinson's disease (PD), Alzheimer's disease (AD), 
+amyotrophic lateral sclerosis (ALS), Huntington's disease (HD) and multiple 
+sclerosis (MS); and (2) innovative strategies such as IDO/TDO inhibitors, Brazil 
+nuts, caffeic acid, polyphenols, among others, that act on EGCs and have the 
+potential to treat neurodegenerative diseases.",Alzheimer's disease,pd,ambiguous,Alzheimer's disease,PD
+"This review proposes a discussion on: (1) the complex role of 
+distinct phenotypes of enteric glial cells involved in neurodegenerative 
+diseases, such as Parkinson's disease (PD), Alzheimer's disease (AD), 
+amyotrophic lateral sclerosis (ALS), Huntington's disease (HD) and multiple 
+sclerosis (MS); and (2) innovative strategies such as IDO/TDO inhibitors, Brazil 
+nuts, caffeic acid, polyphenols, among others, that act on EGCs and have the 
+potential to treat neurodegenerative diseases.",Alzheimer's disease,huntington's disease,ambiguous,Alzheimer's disease,Huntington's disease
+"This review proposes a discussion on: (1) the complex role of 
+distinct phenotypes of enteric glial cells involved in neurodegenerative 
+diseases, such as Parkinson's disease (PD), Alzheimer's disease (AD), 
+amyotrophic lateral sclerosis (ALS), Huntington's disease (HD) and multiple 
+sclerosis (MS); and (2) innovative strategies such as IDO/TDO inhibitors, Brazil 
+nuts, caffeic acid, polyphenols, among others, that act on EGCs and have the 
+potential to treat neurodegenerative diseases.",Alzheimer's disease,hd,ambiguous,Alzheimer's disease,HD
+"This review proposes a discussion on: (1) the complex role of 
+distinct phenotypes of enteric glial cells involved in neurodegenerative 
+diseases, such as Parkinson's disease (PD), Alzheimer's disease (AD), 
+amyotrophic lateral sclerosis (ALS), Huntington's disease (HD) and multiple 
+sclerosis (MS); and (2) innovative strategies such as IDO/TDO inhibitors, Brazil 
+nuts, caffeic acid, polyphenols, among others, that act on EGCs and have the 
+potential to treat neurodegenerative diseases.",Alzheimer's disease,parkinson's disease,ambiguous,Alzheimer's disease,Parkinson's disease
+"This review proposes a discussion on: (1) the complex role of 
+distinct phenotypes of enteric glial cells involved in neurodegenerative 
+diseases, such as Parkinson's disease (PD), Alzheimer's disease (AD), 
+amyotrophic lateral sclerosis (ALS), Huntington's disease (HD) and multiple 
+sclerosis (MS); and (2) innovative strategies such as IDO/TDO inhibitors, Brazil 
+nuts, caffeic acid, polyphenols, among others, that act on EGCs and have the 
+potential to treat neurodegenerative diseases.",Alzheimer's disease,als,ambiguous,Alzheimer's disease,ALS
+"Chronic exposure to herbicides, weedicides, and pesticides is associated with 
+the onset and progress of neurodegenerative disorders such as Parkinson's 
+disease (PD), Alzheimer's disease (AD), and Amyotrophic Lateral Sclerosis (ALS).",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"Chronic exposure to herbicides, weedicides, and pesticides is associated with 
+the onset and progress of neurodegenerative disorders such as Parkinson's 
+disease (PD), Alzheimer's disease (AD), and Amyotrophic Lateral Sclerosis (ALS).",Alzheimer's disease,pd,ambiguous,Alzheimer's disease,PD
+"Chronic exposure to herbicides, weedicides, and pesticides is associated with 
+the onset and progress of neurodegenerative disorders such as Parkinson's 
+disease (PD), Alzheimer's disease (AD), and Amyotrophic Lateral Sclerosis (ALS).",Alzheimer's disease,"parkinson's 
+disease",ambiguous,Alzheimer's disease,"Parkinson's 
+disease"
+"Chronic exposure to herbicides, weedicides, and pesticides is associated with 
+the onset and progress of neurodegenerative disorders such as Parkinson's 
+disease (PD), Alzheimer's disease (AD), and Amyotrophic Lateral Sclerosis (ALS).",Alzheimer's disease,neurodegenerative disorders,associated_with,Alzheimer's disease,neurodegenerative disorders
+"Chronic exposure to herbicides, weedicides, and pesticides is associated with 
+the onset and progress of neurodegenerative disorders such as Parkinson's 
+disease (PD), Alzheimer's disease (AD), and Amyotrophic Lateral Sclerosis (ALS).",Alzheimer's disease,als,ambiguous,Alzheimer's disease,ALS
+"Alzheimer's disease (AD) is a progressive neurodegenerative disorder 
+characterized by cognitive decline and memory loss, with amyloid-beta (AÎ²) 
+plaques and acetylcholine deficits being central pathological features.",Alzheimer's disease,"amyloid-beta (aÎ²) 
+plaques and acetylcholine",associated_with,Alzheimer's disease,
+"Alzheimer's disease (AD) is a progressive neurodegenerative disorder 
+characterized by cognitive decline and memory loss, with amyloid-beta (AÎ²) 
+plaques and acetylcholine deficits being central pathological features.",Alzheimer's disease,memory loss,associated_with,Alzheimer's disease,memory loss
+"Alzheimer's disease (AD) is a progressive neurodegenerative disorder 
+characterized by cognitive decline and memory loss, with amyloid-beta (AÎ²) 
+plaques and acetylcholine deficits being central pathological features.",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"Alzheimer's disease (AD) is a progressive neurodegenerative disorder 
+characterized by cognitive decline and memory loss, with amyloid-beta (AÎ²) 
+plaques and acetylcholine deficits being central pathological features.",Alzheimer's disease,cognitive decline,associated_with,Alzheimer's disease,cognitive decline
+"Alzheimer's disease (AD) is a progressive neurodegenerative disorder 
+characterized by cognitive decline and memory loss, with amyloid-beta (AÎ²) 
+plaques and acetylcholine deficits being central pathological features.",Alzheimer's disease,neurodegenerative disorder,associated_with,Alzheimer's disease,neurodegenerative disorder
+"Selenium (Se) is essential for many nervous system functions 
+including memory, cognition and coordination, which has also been linked to a 
+variety of neurological disorders, such as epilepsy, Alzheimer's disease (AD) 
+and Parkinson's disease (PD).",Alzheimer's disease,epilepsy,ambiguous,Alzheimer's disease,epilepsy
+"Selenium (Se) is essential for many nervous system functions 
+including memory, cognition and coordination, which has also been linked to a 
+variety of neurological disorders, such as epilepsy, Alzheimer's disease (AD) 
+and Parkinson's disease (PD).",Alzheimer's disease,parkinson's disease,ambiguous,Alzheimer's disease,Parkinson's disease
+"Selenium (Se) is essential for many nervous system functions 
+including memory, cognition and coordination, which has also been linked to a 
+variety of neurological disorders, such as epilepsy, Alzheimer's disease (AD) 
+and Parkinson's disease (PD).",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"Selenium (Se) is essential for many nervous system functions 
+including memory, cognition and coordination, which has also been linked to a 
+variety of neurological disorders, such as epilepsy, Alzheimer's disease (AD) 
+and Parkinson's disease (PD).",Alzheimer's disease,pd,ambiguous,Alzheimer's disease,PD
+"Selenium (Se) is essential for many nervous system functions 
+including memory, cognition and coordination, which has also been linked to a 
+variety of neurological disorders, such as epilepsy, Alzheimer's disease (AD) 
+and Parkinson's disease (PD).",Alzheimer's disease,neurological disorders,associated_with,Alzheimer's disease,neurological disorders
+"Alzheimer's disease and insomnia: a bibliometric study and visualization 
+analysis.",Alzheimer's disease,insomnia,ambiguous,Alzheimer's disease,insomnia
+"Alzheimer's disease (AD) is the fastest-growing neurodegenerative 
+disorder globally, with patient numbers expected to rise to 130 million by 2050.",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"OBJECTIVE: To conduct a visual analysis of the relationship between Alzheimer's 
+disease and insomnia using CiteSpace.",Alzheimer's disease,insomnia,ambiguous,"Alzheimer's 
+disease and",insomnia
+"Literature on ""insomnia"" and ""Alzheimer's disease"" published between 
+January 1, 2000, and October 31, 2024, was retrieved from the Web of Science 
+Core Collection.",Alzheimer's disease,insomnia,ambiguous,"Alzheimer's disease"" published between 
+January 1, 2000, and October 31, 2024, was retrieved from the Web of Science 
+Core Collection",insomnia
+"White matter hyperintensities (WMHs) are strongly linked to 
+cardiovascular risk factors and other health conditions such as Alzheimer's 
+disease.",Alzheimer's disease,white matter hyperintensities,associated_with,"Alzheimer's 
+disease",White matter hyperintensities
+"White matter hyperintensities (WMHs) are strongly linked to 
+cardiovascular risk factors and other health conditions such as Alzheimer's 
+disease.",Alzheimer's disease,wmhs,associated_with,"Alzheimer's 
+disease",WMHs
+"Optimal IR preserves youthful immune profiles at any age, enhances 
+vaccine responses, and reduces burdens of cardiovascular disease, Alzheimer's, 
+and serious infections.",Alzheimer's disease,infections,ambiguous,Alzheimer,infections
+"Optimal IR preserves youthful immune profiles at any age, enhances 
+vaccine responses, and reduces burdens of cardiovascular disease, Alzheimer's, 
+and serious infections.",Alzheimer's disease,cardiovascular disease,ambiguous,Alzheimer,cardiovascular disease
+"Alzheimer's disease (AD) is a progressive neurodegenerative disorder that 
+affects more than 50 million people worldwide.",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"Alzheimer's disease (AD) is a progressive neurodegenerative disorder that 
+affects more than 50 million people worldwide.",Alzheimer's disease,neurodegenerative disorder,associated_with,Alzheimer's disease,neurodegenerative disorder
+"Alzheimer's disease (AD) is a prominent neurodegenerative ailment 
+characterized by the constraints of conventional therapies stemming from 
+insufficient medication transport to the brain.",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"Alzheimer's disease (AD) is a prominent neurodegenerative ailment 
+characterized by the constraints of conventional therapies stemming from 
+insufficient medication transport to the brain.",Alzheimer's disease,neurodegenerative ailment,associated_with,Alzheimer's disease,neurodegenerative ailment
+"While it protects the brain from toxins and 
+pathogens, it also restricts the delivery of therapeutic agents, posing a 
+significant challenge in treating CNS disorders such as Alzheimer's disease, 
+Parkinson's disease, and glioblastoma.",Alzheimer's disease,parkinson's disease,ambiguous,Alzheimer's disease,Parkinson's disease
+"While it protects the brain from toxins and 
+pathogens, it also restricts the delivery of therapeutic agents, posing a 
+significant challenge in treating CNS disorders such as Alzheimer's disease, 
+Parkinson's disease, and glioblastoma.",Alzheimer's disease,glioblastoma,ambiguous,Alzheimer's disease,glioblastoma
+"Acetylcholinesterase (AChE) is the enzyme targeted by drugs used for the 
+symptomatic treatment of cognitive decline associated with Alzheimer's disease.",Alzheimer's disease,cognitive decline,associated_with,Alzheimer's disease,cognitive decline
+"Cognitive resilience (CR) contributes to the variability in risk for developing 
+and progressing in Alzheimer's disease (AD) among individuals.",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"Furthermore, we developed a 
+Methylation-based Resilience Score (MRS) that successfully predicted future 
+cognitive decline in an external dataset from the Alzheimer's Disease 
+Neuroimaging Initiative (ADNI), even after accounting for age, sex, APOE Îµ4, 
+years of education, baseline diagnosis, and baseline MMSE score.",Alzheimer's disease,cognitive decline,associated_with,"Alzheimer's Disease 
+Neuroimaging Initiative (ADNI), even after accounting for age, sex, APOE Îµ4",cognitive decline
+"Ethics approval was obtained from the 
+institutional review boards of each institution involved: Oregon Health and 
+Science University; University of Southern California; University of 
+CaliforniaâSan Diego; University of Michigan; Mayo Clinic, Rochester; Baylor 
+College of Medicine; Columbia University Medical Center; Washington University, 
+St. Louis; University of Alabama at Birmingham; Mount Sinai School of Medicine; 
+Rush University Medical Center; Wien Center; Johns Hopkins University; New York 
+University; Duke University Medical Center; University of Pennsylvania; 
+University of Kentucky; University of Pittsburgh; University of Rochester 
+Medical Center; University of California, Irvine; University of Texas 
+Southwestern Medical School; Emory University; University of Kansas, Medical 
+Center; University of California, Los Angeles; Mayo Clinic, Jacksonville; 
+Indiana University; Yale University School of Medicine; McGill University, 
+Montreal-Jewish General Hospital; Sunnybrook Health Sciences, Ontario; U.B.C. 
+Clinic for AD & Related Disorders; Cognitive NeurologyâSt. Josephâs, Ontario; 
+Cleveland Clinic Lou Ruvo Center for Brain Health; Northwestern University; 
+Premiere Research Inst (Palm Beach Neurology); Georgetown University Medical 
+Center; Brigham and Womenâs Hospital; Stanford University; Banner Sun Health 
+Research Institute; Boston University; Howard University; Case Western Reserve 
+University; University of California, DavisâSacramento; Neurological Care of 
+CNY; Parkwood Hospital; University of Wisconsin; University of California, 
+IrvineâBIC; Banner Alzheimerâs Institute; Dent Neurologic Institute; Ohio State 
+University; Albany Medical College; Hartford Hospital, Olin Neuropsychiatry 
+Research Center; Dartmouth-Hitchcock Medical Center; Wake Forest University 
+Health Sciences; Rhode Island Hospital; Butler Hospital; UC San Francisco; 
+Medical University South Carolina; St. Josephâs Health Care Nathan Kline 
+Institute; University of Iowa College of Medicine; Cornell University and 
+University of South Florida: USF Health Byrd Alzheimerâs Institute.",Alzheimer's disease,& related disorders,ambiguous,,& Related Disorders
+"doi: 10.1186/s13195-025-01730-w.
+
+Correction: Investigating the AÎ² and tau pathology in autosomal dominant 
+Alzheimer's disease: insights from hybrid PET/MRI and network mapping.",Alzheimer's disease,autosomal dominant,associated_with,Alzheimer's disease,autosomal dominant
+"Author information:
+(1)Huffington Center on Aging, Baylor College of Medicine, One Baylor Plaza, 
+Houston, TX, 77030, USA.
+(2)Department of Molecular and Human Genetics, Baylor College of Medicine, 
+Houston, TX, USA.
+(3)Department of Entomology and Nematology and UC Davis Comprehensive Cancer 
+Center, University of California, Davis, CA, USA.
+(4)Helen and Robert Appel Alzheimer's Disease Research Institute, Weill Cornell 
+Medicine, New York, NY, USA.
+(5)Huffington Center on Aging, Baylor College of Medicine, One Baylor Plaza, 
+Houston, TX, 77030, USA.",Alzheimer's disease,uc,ambiguous,"Alzheimer's Disease Research Institute, Weill Cornell 
+Medicine, New York, NY",UC
+"Author information:
+(1)Huffington Center on Aging, Baylor College of Medicine, One Baylor Plaza, 
+Houston, TX, 77030, USA.
+(2)Department of Molecular and Human Genetics, Baylor College of Medicine, 
+Houston, TX, USA.
+(3)Department of Entomology and Nematology and UC Davis Comprehensive Cancer 
+Center, University of California, Davis, CA, USA.
+(4)Helen and Robert Appel Alzheimer's Disease Research Institute, Weill Cornell 
+Medicine, New York, NY, USA.
+(5)Huffington Center on Aging, Baylor College of Medicine, One Baylor Plaza, 
+Houston, TX, 77030, USA.",Alzheimer's disease,cancer,ambiguous,"Alzheimer's Disease Research Institute, Weill Cornell 
+Medicine, New York, NY",Cancer
+"Inhibition of sEH has been shown to stabilize the EETs and reduce 
+neuroinflammation in AÎ² mouse models of Alzheimer's disease (AD).",Alzheimer's disease,ad,equivalent,Alzheimer's disease,AD
+"Inhibition of sEH has been shown to stabilize the EETs and reduce 
+neuroinflammation in AÎ² mouse models of Alzheimer's disease (AD).",Alzheimer's disease,neuroinflammation,associated_with,Alzheimer's disease,neuroinflammation
